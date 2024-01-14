@@ -13,3 +13,7 @@ For each image in the test set, I predict a probability that the image is a dog 
 
 Data source from a past Kaggle competition:   
 (Dogs vs. Cats Redux: Kernels Edition) https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview  
+
+## Final Score
+![image](https://github.com/tsps40642/Convolutional_Neural_Network_on_Cats_vs_Dogs_Image_Recognition/assets/152329195/e5c0350f-3a55-4d6b-be77-eb3dd12550ac)
+
