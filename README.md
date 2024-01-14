@@ -17,3 +17,4 @@ Data source from a past Kaggle competition:
 ## Final Score
 ![image](https://github.com/tsps40642/Convolutional_Neural_Network_on_Cats_vs_Dogs_Image_Recognition/assets/152329195/e5c0350f-3a55-4d6b-be77-eb3dd12550ac)
 
+### Other elaborations on exploratory data analysis, code comments, and model performance are all in Data_preprocessing_on_image_array.ipynb and CNN_model_training.ipynb  
